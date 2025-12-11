@@ -343,16 +343,16 @@ The app follows a **feature-based architecture** with clear separation of concer
 
 <div align="center">
 
-| Dashboard | Notes | Flashcards |
-|-----------|-------|------------|
-| ![Dashboar<img width="709" height="969" alt="Screenshot 2025-12-11 151904" src="https://github.com/user-attachments/assets/7b946e8c-7a18-46de-8843-0b1b6d34258d" />
-d](<img width="713" height="974" alt="Screenshot 2025-12-11 151844" src="https://github.com/user-attachments/assets/87a7540e-931e-4d8f-bf3b-706ccc62222a" />
- | ![Notes](screenshots/notes.png<img width="717" height="975" alt="Screenshot 2025-12-11 151914" src="https://github.com/user-attachments/assets/a227c019-4156-46f5-bbdd-92a16951c506" />
-) | ![Flashcards](<img width="717" height="968" alt="Screenshot 2025-12-11 151923" src="https://github.com/user-attachments/assets/ac57ae88-66d4-4bf1-8684-ff3018960d25" /> |
+| onboarding | onboarding | onboadrding | onboarding |
+|------------|------------|-------------|------------|
+| ![onboarding]<img width="709" height="969" alt="Screenshot 2025-12-11 151904" src="https://github.com/user-attachments/assets/7b946e8c-7a18-46de-8843-0b1b6d34258d" />
+| ![onboarding]<img width="713" height="974" alt="Screenshot 2025-12-11 151844" src="https://github.com/user-attachments/assets/87a7540e-931e-4d8f-bf3b-706ccc62222a" />
+ | ![onboarding](screenshots/notes.png<img width="717" height="975" alt="Screenshot 2025-12-11 151914" src="https://github.com/user-attachments/assets/a227c019-4156-46f5-bbdd-92a16951c506" />
+) | ![onboarding](<img width="717" height="968" alt="Screenshot 2025-12-11 151923" src="https://github.com/user-attachments/assets/ac57ae88-66d4-4bf1-8684-ff3018960d25" /> |
 
-| Study Groups | Planner | PDF Viewer |
-|--------------|---------|------------|
-| ![Groups](<img width="722" height="988" alt="Screenshot 2025-12-11 151959" src="https://github.com/user-attachments/assets/9cbdce4b-f01e-4968-852f-068c98a8eb17" />| ![Planner](screenshots/planner.png) | ![PDF](<img width="1892" height="994" alt="Screenshot 2025-12-11 152100" src="https://github.com/user-attachments/assets/4d07e64e-f5dc-4db6-9fad-1193ce323a09" />|
+| Dashboard | Dashboard |
+|-----------|-----------|
+| ![Groups](<img width="722" height="988" alt="Screenshot 2025-12-11 151959" src="https://github.com/user-attachments/assets/9cbdce4b-f01e-4968-852f-068c98a8eb17" />| ![PDF](<img width="1892" height="994" alt="Screenshot 2025-12-11 152100" src="https://github.com/user-attachments/assets/4d07e64e-f5dc-4db6-9fad-1193ce323a09" />|
 
 </div>
 
