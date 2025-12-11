@@ -14,6 +14,8 @@ import '../features/planner/presentation/screens/planner_screen.dart';
 import '../features/pdf/presentation/screens/pdf_viewer_screen.dart';
 import '../features/courses/presentation/screens/courses_list_screen.dart';
 import '../features/courses/presentation/screens/course_detail_screen.dart';
+import '../features/search/presentation/screens/search_screen.dart';
+import '../features/settings/presentation/screens/settings_screen.dart';
 
 class AppRouter {
   static final router = GoRouter(
@@ -26,6 +28,14 @@ class AppRouter {
       GoRoute(
         path: '/dashboard',
         builder: (context, state) => const DashboardScreen(),
+      ),
+      GoRoute(
+        path: '/search',
+        builder: (context, state) => const SearchScreen(),
+      ),
+      GoRoute(
+        path: '/settings',
+        builder: (context, state) => const SettingsScreen(),
       ),
       GoRoute(
         path: '/courses',
