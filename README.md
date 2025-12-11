@@ -294,9 +294,12 @@ lib/
 └── main.dart           # App entry point
 ```
 
+<<<<<<< HEAD
 ### Architecture
 
 The app follows a **feature-based architecture** with clear separation of concerns:
+=======
+>>>>>>> ea3345300d2ca921ed07c1dd8fb2a3a60631c042
 
 - **Data Layer**: Repositories handle data access (local + cloud)
   - Each feature has its own repository (e.g., `NoteRepository`, `TaskRepository`)
