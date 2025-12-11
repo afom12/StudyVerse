@@ -61,7 +61,4 @@ lib/
   main.dart
 ```
 
-## License
-
-MIT
 
